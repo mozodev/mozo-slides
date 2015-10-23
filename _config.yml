@@ -1,6 +1,7 @@
 name: jekyll-reveal 
 markdown: redcarpet
 highlighter: pygments
+baseurl: /mozo-slides/slides
 
 collections:
   slides:
